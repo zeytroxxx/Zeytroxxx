@@ -2,8 +2,6 @@
 [🇫🇷 FR](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README.md)  
 
 [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
-## Stats
-## My favorite languages
 
 ## Contact me by discord
 [👋 My account](https://discord.com/users/752559885190824026)
