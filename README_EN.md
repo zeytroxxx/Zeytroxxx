@@ -8,5 +8,5 @@
 
 [⚡ My bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
 
-[💬 NakotBot support server](https://discord.com/invite/aNKeKQbJuR) [![NakotBot support server](https://discord.com/api/guilds/784983514340261929/widget.png)](https://discord.com/invite/aNKeKQbJuR)
+[💬 NakotBot support server](https://discord.com/invite/UNc9pUX8yd) [![NakotBot support server](https://discord.com/api/guilds/831566848465174579/widget.png)](https://discord.com/invite/UNc9pUX8yd)
 ****
