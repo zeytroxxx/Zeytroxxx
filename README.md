@@ -6,10 +6,8 @@
 [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
 ## Contactez moi sur discord
-
-Email: <code>contact@enzo-pro.fr<code>
-
-Discord: <code>zeytroxxx#0001<code>
+- Email: `kaneki_pro@protonmail.com`
+- Discord: `Kaneki SΛD#8888`
 
 [👋 Mon compte](https://discord.com/users/752559885190824026)
 
