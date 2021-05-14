@@ -5,6 +5,10 @@
 
 - [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
+- 🐍 > French python devloper
+- 🔭 > Currently working on nothing...
+- ❤️ > Passionate of Exploit, Osint, Hacking etc...
+
 ## Contactez moi sur discord
 - Email: `contact@enzo-pro.fr`
 - Discord: `zeytroxxx#0001`
