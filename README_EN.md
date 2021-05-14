@@ -29,3 +29,10 @@
 
 - [💬 NakotBot support server](https://discord.com/invite/UNc9pUX8yd) [![NakotBot support server](https://discord.com/api/guilds/831566848465174579/widget.png)](https://discord.com/invite/UNc9pUX8yd)
 ****
+
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/zeytroxxx/count.svg" />
+</p>
