@@ -17,7 +17,7 @@
 
 - 🐍 > French Apprentice Developer
 - 🔭 > Currently working on my NakoBot multifunction robot
-- ❤️ > Passionate of Exploit, Osint, Hacking etc...
+- ❤️ > Passionate about IT, development, etc ...
 
 ## Contact me by discord
 - Email: `contact@enzo-pro.fr`
