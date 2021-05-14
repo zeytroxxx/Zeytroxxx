@@ -27,7 +27,7 @@
 
 - [⚡ Mon bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
 
-- [![💬 Serveur Support NakoBot](https://media.discordapp.net/attachments/837081773606174811/842599168065142804/Fichier_3.png?width=25&height=15)](https://discord.com/invite/UNc9pUX8yd)[💬 Serveur Support NakoBot](https://discord.com/invite/UNc9pUX8yd)
+- [![💬 Serveur Support NakoBot](https://media.discordapp.net/attachments/837081773606174811/842599168065142804/Fichier_3.png?width=25&height=15)](https://discord.com/invite/UNc9pUX8yd)[Serveur Support NakoBot](https://discord.com/invite/UNc9pUX8yd)
 
 
 ---  
