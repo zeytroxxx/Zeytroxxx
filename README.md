@@ -9,9 +9,9 @@
 - Email: `contact@enzo-pro.fr`
 - Discord: `zeytroxxx#0001`
 
-[- 👋 Mon compte](https://discord.com/users/752559885190824026)
+- [👋 Mon compte](https://discord.com/users/752559885190824026)
 
-[- ⚡ Mon bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
+- [⚡ Mon bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
 
-[- 💬 Serveur Support NakoBot](https://discord.com/invite/UNc9pUX8yd) [![💬 Serveur Support NakoBot](https://discord.com/api/guilds/831566848465174579/widget.png)](https://discord.com/invite/UNc9pUX8yd)
+- [💬 Serveur Support NakoBot](https://discord.com/invite/UNc9pUX8yd) [![💬 Serveur Support NakoBot](https://discord.com/api/guilds/831566848465174579/widget.png)](https://discord.com/invite/UNc9pUX8yd)
 ****
