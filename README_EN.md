@@ -16,7 +16,7 @@
 - [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
 - 🐍 > French Apprentice Developer
-- 🔭 > Currently working on nothing...
+- 🔭 > Currently working on my NakoBot multifunction robot
 - ❤️ > Passionate of Exploit, Osint, Hacking etc...
 
 ## Contact me by discord
