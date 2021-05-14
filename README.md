@@ -1,4 +1,6 @@
-<h1>Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm zeytroxxx :) </h1>
+<p align='center'>
+  <b>Hi 👋, I'm Zeytroxxx</b><br>
+</p>
 
 <p align="center"><br>
   <a href="https://github.com/Zeytroxxx">
