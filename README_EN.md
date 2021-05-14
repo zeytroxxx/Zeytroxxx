@@ -17,7 +17,7 @@
 
 - 🐍 > French Apprentice Developer
 - 🔭 > Currently working on my NakoBot multifunction robot
-- ❤️ > Passionate about IT, development, etc ...
+- ❤️ > 𝙃𝙤𝙨𝙩𝙞𝙣𝙜 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩 𝙞𝙣 𝙂𝘼𝙈𝙀 𝙖𝙣𝙙 𝙑𝙋𝙎
 
 ## Contact me by discord
 - Email: `contact@enzo-pro.fr`
