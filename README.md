@@ -16,7 +16,7 @@
 - [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
 - 🐍 > French Apprenti développeur
-- 🔭 > Travaille actuellement sur mon robot multifonction NakoBot...
+- 🔭 > Travaille actuellement sur mon bot multifonction NakoBot...
 - ❤️ > 𝙃𝙤𝙨𝙩𝙞𝙣𝙜 𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩 𝙞𝙣 𝙂𝘼𝙈𝙀 𝙖𝙣𝙙 𝙑𝙋𝙎
 
 ## Contactez moi sur discord
