@@ -15,7 +15,7 @@
 
 - [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
-- 🐍 > French python devloper
+- 🐍 > French Apprenti développeur
 - 🔭 > Currently working on nothing...
 - ❤️ > Passionate of Exploit, Osint, Hacking etc...
 
