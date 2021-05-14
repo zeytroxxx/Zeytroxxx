@@ -6,6 +6,7 @@
 [🇬🇧 EN](https://github.com/zeytroxxx/Zeytroxxx/blob/README.md/README_EN.md)
 
 ## Contactez moi sur discord
+
 Email: <code>contact@enzo-pro.fr<code>
 
 Discord: <code>zeytroxxx#0001<code>
