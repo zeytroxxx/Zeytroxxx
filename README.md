@@ -1,9 +1,3 @@
-//🚧NTM SI TU COPIES FILS DE PUTE🚧
-
-
-
-
-
 <p align='center'>
   <b>Hi 👋, I'm Zeytroxxx</b><br>
 </p>
