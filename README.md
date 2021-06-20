@@ -33,7 +33,7 @@ NIQUE BIEN TA MERE CELUI QUI ME COPIE 🖕🖕🖕🖕🖕🖕🖕
 - [👋 Mon compte](https://discord.com/users/752559885190824026)
 
 - [⚡ Mon bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
--  [<img alt = "Site NakoBot" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://nakobot.xyz)  
+-  [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://nakobot.xyz)  
 
 <a href="https://discord.com/invite/UNc9pUX8yd"><img src="https://img.shields.io/discord/831566848465174579?color=%235865f2&label=NakoBot%20%7C%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
 
