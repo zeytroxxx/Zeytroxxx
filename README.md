@@ -34,7 +34,9 @@ NIQUE BIEN TA MERE CELUI QUI ME COPIE 🖕🖕🖕🖕🖕🖕🖕
 
 - [⚡ Mon bot : NakoBot](https://discord.com/oauth2/authorize?client_id=801523961539330078&permissions=8&scope=bot)
 
-<a href="https://discord.com/invite/UNc9pUX8yd"><img src="https://img.shields.io/discord/831566848465174579?color=%235865f2&label=NakoBot%20%7C%20Support&style=for-the-badge" alt="Join Community Badge"/></a> [<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://www.chillbot.me)  
+<a href="https://discord.com/invite/UNc9pUX8yd"><img src="https://img.shields.io/discord/831566848465174579?color=%235865f2&label=NakoBot%20%7C%20Support&style=for-the-badge" alt="Join Community Badge"/></a>
+
+[<img alt = "Website" src = "https://img.shields.io/badge/-Website-FF0000"/>](https://www.chillbot.me)  
 
 [![Discord Bots](https://top.gg/api/widget/801523961539330078.svg)](https://top.gg/bot/801523961539330078)
 
